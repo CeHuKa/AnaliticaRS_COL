@@ -1,5 +1,4 @@
-# WSANR
-Workshop Analítica con redes sociales - Twitter
+# Workshop Analítica con redes sociales - Twitter
 
 Este taller ofrece un acercamiento teórico-práctico a conceptos como *web scraping*, análisis de redes, grafos, *NLP*, análisis de sentimiento, clusterización y predicción mediante el uso de información obtenida de la red social *Twitter*. 
 
@@ -55,3 +54,6 @@ library(mlbench)
 library(caret)
 library(pROC)
 ```
+## Datos
+
+En este repositorio se encuentran los sets de datos con los cuales se trabajará el sábado.
